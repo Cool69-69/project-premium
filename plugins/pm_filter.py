@@ -682,7 +682,7 @@ async def auto_filter(client, msg, spoll=False):
         ]
 
     btn.append(
-    [InlineKeyboardButton("𐋏᧐ᥕ T᧐ 𑀥᧐ᥕᥒᥣ᧐ᥲd 🤔", url="https://t.me/AstroRequest/5"),]
+    [InlineKeyboardButton("𐋏᧐ᥕ T᧐ 𑀥᧐ᥕᥒᥣ᧐ᥲd 🤔", url="https://t.me/AstroRequest"),]
 )
 
     if offset != "":
